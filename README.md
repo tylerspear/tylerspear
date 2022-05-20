@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tyler Spear</h1>
+<h1 align="center">Hello, I'm Tyler Spear</h1>
 <h3 align="center">A full-stack software engineer based in Kansas City, MO</h3>
 
 - 👨‍💻 All of my projects are available at [tylerspeardev.netlify.app](tylerspeardev.netlify.app)
