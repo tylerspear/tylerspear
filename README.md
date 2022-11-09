@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Tyler Spear</h1>
+<h1 align="center">Hello, I'm Tyler</h1>
 <h3 align="center">A full-stack software engineer & data analyst based in Kansas City, MO</h3>
 
 <h3 align="left">Connect with me:</h3>
